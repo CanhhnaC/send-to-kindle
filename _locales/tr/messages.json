@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Google Chrome™ için Send to Kindle",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "Kindle cihazınıza veya okuma uygulamanıza haber makaleleri ve blog gönderileri gibi web içeriklerini göndermek ve okumak artık her zamankinden daha kolay.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "Bildirim",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "Kullanım Koşulları",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "Avustralya",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "Kanada",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "Fransa",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "Almanya",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "İtalya",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "Japonya",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "İspanya",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "Birleşik Krallık",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "Amerika Birleşik Devletleri",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "Hızlı gönder",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "Giriş yap",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "Parolamı unuttum",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Amazon’da yeni misiniz?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "Amazon hesabınızı oluşturun",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "Tercih ettiğiniz ülke/bölge web sitesini seçin:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "Ülkeyi kaydet",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "Ön izleme yap ve gönder",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "Seçimi gönder",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "Ayarlar",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "Değerlendirme",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "Ayarlar",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "Kısayollar",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "Geçmiş",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: Seçenekler",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "Klavye Kısayolları",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "Değiştirmek için aşağıdaki kutuyu tıklayın ve klavyenizdeki tuş kombinasyonunu seçin:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "SOL OK",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "SAĞ OK",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "YUKARI OK",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "AŞAĞI OK",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "Teslimat seçeneklerinizi mi arıyorsunuz? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "Buraya tıklayın",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: Geçmiş",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "Geçmiş",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "Son 30 gün içinde gönderilen ürün yok.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "Bugün",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "Dün",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " gün önce",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "Geçmişi temizle",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "Kapat",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "Devam Et",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "Kütüphanenize ekleyin",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "Kütüphanenizdeki dosyalar hesabınıza bağlı herhangi bir cihaza indirilebilir.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "Karmaşık düzen uyarılarını göster",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "Karmaşık düzenlere sahip bazı siteler Kindle’da düzgün görüntülenmeyebilir.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "Çıkış yap",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "Çıkış yap",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "Bu tarayıcıda Amazon hesabınızdan çıkış yapın.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "Dosyalarınızı nereye göndereceğinizi seçin:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "Cihaz bulunamadı. read.amazon.com adresine gidin veya Kindle cihazınızı kaydedin.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "En az bir cihaz gerekli",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "Ön İzleme",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "Gönder",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "Send to Kindle deneyiminizi değerlendirin.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "Bize daha fazla bilgi verin (isteğe bağlı).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "Gönder",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "Geri bildiriminiz için teşekkürler!",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "Ön izlemenizi değerlendirin",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "İçeriğiniz yolda",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "Kindle kütüphanenize ulaşması birkaç dakika sürebilir.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "Gönderme iptal edilsin mi?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "Bu web sayfasının kapatılması göndermeyi iptal edecektir. Gerçekleşen ilerleme gönderilmeyecektir.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "Gönderme başarısız oldu",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "İçeriğinizi gönderemedik. Lütfen daha sonra tekrar deneyin.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "İçeriğinizi gönderemedik. Lütfen bağlantınızı kontrol edip tekrar deneyin.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "Ön izleme başarısız oldu",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "İçeriğinizin ön izlemesini yükleyemedik.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "İçeriğinizin ön izlemesini yükleyemedik. Lütfen daha sonra yeniden deneyin.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "İçerik gönderilemiyor",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "Bu sayfanın içeriği düzgün yüklenmiyor ve gönderilemiyor. Bunun yerine metin seçimleri göndermeyi deneyebilirsiniz.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "Web sitesi analiz ediliyor",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "Ön izleme yükleniyor",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "Yine de gönder",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "Ön izlemenizi değerlendirin",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "Web sayfanızın ön izlemesi nasıldı?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "Görüşlerinizi paylaştığınız için teşekkürler!",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "Tamam",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "İptal Et",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "Göndermeyi iptal et",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "Önemli değil",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "Gönder",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "256 karakter sınırına ulaşıldı ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "Amazon hesabınızda başarıyla oturum açtınız.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "Brezilya",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "Hindistan",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "Meksika",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "Hollanda",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "Ön izleme yükleniyor",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "Ön izleme yükleniyor",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "Giriş yapılan kullanıcı adı:",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "Seçimin ön izle",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "Başlık gereklidir",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Kindle'a gönderiliyor",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "Geri",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "Kapat",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "Yükleniyor",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "Cihaz Listesi",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "Geçmiş Listesi",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "Sil",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "Şu şekilde derecelendirme:",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "yıldız",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "Mevcut Derecelendirme: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "Ayar düğmesi, ayar hatası",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "Başlık: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "Yazan: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "Ürün",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "Yazar",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "Bu geri bildirim özeldir ve ön izleme deneyiminizi geliştirmemize yardımcı olacaktır.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(Seçim)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "Uyarı",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "Kindle'ınıza içerik gönderiliyor",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "Web sitesinin içeriği analiz ediliyor",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "Web sitesi içeriğinin ön izlemesi yükleniyor",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "Web sayfanızı göndermeden önce lütfen giriş yapın.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "Giriş yap",
+        "description": "Text for sign in button of alert"
+    }
+}

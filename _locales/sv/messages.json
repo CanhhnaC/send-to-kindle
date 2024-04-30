@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Send to Kindle för Google Chrome™",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "Att skicka innehåll som nyhetsartiklar och blogginlägg och läsa det på din Kindle-enhet eller Reading-app är nu enklare än någonsin.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "Meddelande",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "Användarvillkor",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "Australien",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "Kanada",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "Frankrike",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "Tyskland",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "Italien",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "Japan",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "Spanien",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "Storbritannien",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "USA",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "Skicka snabbt",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "Logga in",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "Glömt lösenord",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Ny på Amazon?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "Skapa ditt Amazon-konto",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "Välj önskat land/region för webbplatsen:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "Spara land",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "Förhandsgranska och skicka",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "Skicka markering",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "Inställningar",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "Feedback",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "Inställningar",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "Kortkommandon",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "Historik",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle: Alternativ",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "Kortkommandon",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "Om du vill ändra klickar du på rutan nedan och väljer tangentkombinationen på tangentbordet:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SKIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "PIL VÄNSTER",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "PIL HÖGER",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "PIL UPP",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "PIL NEDÅT",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "Letar du efter dina leveransalternativ? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "Klicka här",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle: Historik",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "Historik",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "Inga objekt har skickats under de senaste 30 dagarna.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "Idag",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "Igår",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " dagar sedan",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "Rensa historik",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "Stäng",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "Fortsätt",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "Lägg till i ditt bibliotek",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "Filer i biblioteket kan laddas ner till vilken enhet som helst som är länkad till ditt konto.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "Visa varningar vid komplex layout",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "Vissa webbplatser med komplexa layouter kanske inte visas korrekt på Kindle.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "Logga ut",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "Logga ut",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "Logga ut från ditt Amazon-konto i den här webbläsaren.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "Välj vart du vill skicka din fil:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "Inga enheter hittades. Gå till read.amazon.com eller registrera din Kindle-enhet.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "Minst en enhet krävs",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "Förhandsgranska",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "Skicka",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "Betygsätt din Send to Kindle-upplevelse.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "Berätta mer (valfritt).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "Skicka in",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "Tack för din feedback!",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "Betygsätt förhandsgranskningen",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "Ditt innehåll är på väg",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "Det kan ta några minuter att komma fram till ditt Kindle-bibliotek.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "Avbryt och skicka inte?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "Om du stänger den här webbsidan avbryts inskickningen. Ditt arbete kommer inte att skickas.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "Det gick inte att skicka",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "Vi kunde inte skicka ditt innehåll. Försök igen senare.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "Vi kunde inte skicka ditt innehåll. Kontrollera din anslutning och försök igen.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "Förhandsgranskningen misslyckades",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "Vi kunde inte ladda en förhandsgranskning av ditt innehåll.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "Vi kunde inte ladda en förhandsgranskning av ditt innehåll. Försök igen senare.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "Det går inte att skicka innehållet",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "Sidans innehåll läses inte in korrekt och kan inte skickas. Du kan försöka att skicka texturval i stället.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "Analyserar webbplatsen",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "Läser in förhandsgranskning",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "Skicka ändå",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "Betygsätt förhandsgranskningen",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "Hur var förhandsgranskningen av webbsidan?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "Tack för att du delar din feedback!",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "Okej",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "Avbryt",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "Avbryt och skicka inte",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "Glöm det",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "Skicka in",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "Gränsen på 256 tecken har nåtts ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "Du har loggat in på ditt Amazon-konto.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "Brasilien",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "Indien",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "Mexiko",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "Nederländerna",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "Läser in förhandsgranskning",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "Läser in förhandsgranskning",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "Inloggad som",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "Förhandsgranska val",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "Titel krävs",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Skickar till Kindle",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "Tillbaka",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "Stäng",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "Läser in",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "Lista över enheter",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "Historiklista",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "Ta bort",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "betyg som",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "stjärna",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "Aktuellt betyg: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "Inställningsknapp, inställningsfel",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "Titel: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "Författare: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "Titel",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "Författare",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "Denna feedback är privat och hjälper oss att förbättra din förhandsgranskningsupplevelse.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(Markering)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "Varning",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "Skickar innehåll till din Kindle",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "Analyserar webbplatsens innehåll",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "Laddar förhandsgranskning av webbplatsinnehåll",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "Logga in innan du skickar din webbsida.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "Logga in",
+        "description": "Text for sign in button of alert"
+    }
+}

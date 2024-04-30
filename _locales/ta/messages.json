@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Google Chrome™க்கான Send to Kindle",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "உங்கள் Kindle சாதனம் அல்லது வாசிப்புச் செயலிக்கு, செய்திக் கட்டுரைகள், வலைப்பதிவு இடுகைகள் போன்ற இணைய உள்ளடக்கத்தை அனுப்புவது மற்றும் படிப்பது இதுவரை இல்லாத அளவிற்கு இப்போது மிகவும் எளிதாகிவிட்டது.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "அறிவிப்பு",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "பயன்பாட்டு விதிமுறைகள்",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "ஆஸ்திரேலியா",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "கனடா",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "ஃபிரான்ஸ்",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "ஜெர்மனி",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "இத்தாலி",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "ஜப்பான்",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "ஸ்பெயின்",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "யுனைடெட் கிங்டம்",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "அமெரிக்கா",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "விரைவு அனுப்புதல்",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "உள்நுழைக",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "கடவுச்சொல்லை மறந்துவிட்டீர்களா?",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Amazonக்குப் புதியவரா?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "உங்கள் Amazon கணக்கை உருவாக்குங்கள்",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "உங்களுக்கு விருப்பமான நாடு/பிராந்திய வலைத்தளத்தைத் தேர்ந்தெடுக்கவும்:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "நாட்டைச் சேமி",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "முன்னோட்டம் பார்த்து அனுப்பவும்",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "தேர்ந்தெடுத்தத்தை அனுப்பவும்",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "அமைப்புகள்",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "கருத்து",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "அமைப்புகள்",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "குறுக்குவழிகள்",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "வரலாறு",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: விருப்பங்கள்",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "விசைப்பலகைக் குறுக்குவழிகள்",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "மாற்ற, கீழே உள்ள பெட்டியைக் கிளிக் செய்து, உங்கள் விசைப்பலகையில் விசைச் சேர்க்கையைத் தேர்வு செய்யவும்:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "இடது அம்புக்குறி",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "வலது அம்புக்குறி",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "மேல் அம்புக்குறி",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "கீழ் அம்புக்குறி",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "உங்கள் டெலிவரி விருப்பங்களைத் தேடுகிறீர்களா? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "இங்கே கிளிக் செய்யவும்",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: வரலாறு",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "வரலாறு",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "கடந்த 30 நாட்களில் எந்தப் பொருட்களும் அனுப்பப்படவில்லை.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "இன்று",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "நேற்று",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " நாட்களுக்கு முன்பு",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "வரலாற்றை அழி",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "மூடு",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "தொடர்க",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "உங்கள் லைப்ரரியில் சேருங்கள்",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "உங்கள் கணக்குடன் இணைக்கப்பட்டுள்ள எந்தச் சாதனத்திலும், உங்கள் லைப்ரரியில் உள்ள கோப்புகளைப் பதிவிறக்கலாம்.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "சிக்கலான தளவமைப்பு குறித்த எச்சரிக்கைகளைக் காண்பி",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "சிக்கலான தளவமைப்புகளைக் கொண்ட சில தளங்கள் Kindle இல் சரியாகக் காட்டப்படாமல் போகலாம்.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "வெளியேறுக",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "வெளியேறுங்கள்",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "இந்த உலாவியில் உங்கள் Amazon கணக்கிலிருந்து வெளியேறவும்.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "உங்கள் கோப்பை(கோப்புகளை) எங்கே அனுப்ப வேண்டும் என்பதைத் தேர்வுசெய்யவும்:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "சாதனங்கள் எதுவும் இல்லை. read.amazon.com தளத்திற்குச் செல்லவும் அல்லது உங்கள் Kindle சாதனத்தைப் பதிவுசெய்யவும்.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "குறைந்தது ஒரு சாதனமாவது தேவை",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "மாதிரிக்காட்சி",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "அனுப்பு",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "உங்கள் Send to Kindle அனுபவத்திற்கு ரேட்டிங் வழங்கவும்.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "எங்களிடம் மேலும் கூறுங்கள் (விருப்பத்தேர்வு).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "சமர்ப்பி",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "உங்கள் கருத்துக்கு நன்றி!",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "உங்கள் மாதிரிக்காட்சிக்கான ரேட்டிங் வழங்கவும்",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "உங்கள் உள்ளடக்கம் வந்துகொண்டிருக்கிறது",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "இது உங்கள் Kindle லைப்ரரியில் வருவதற்கு சில நிமிடங்கள் ஆகலாம்.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "அனுப்புதலை ரத்து செய்யவா?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "இந்த இணையப் பக்கத்தை மூடினால் அனுப்புதல் ரத்து செய்யப்படும். மேற்கொள்ளப்பட்ட எந்த முன்னேற்றமும் அனுப்பப்படாது.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "அனுப்புதல் தோல்வியடைந்தது",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "உங்கள் உள்ளடக்கத்தை எங்களால் அனுப்பமுடியவில்லை. தயவுசெய்து, பின்னர் மீண்டும் முயலவும்.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "உங்கள் உள்ளடக்கத்தை எங்களால் அனுப்பமுடியவில்லை. தயவுசெய்து, உங்கள் இணைப்பைச் சரிபார்த்துவிட்டு மீண்டும் முயலவும்.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "மாதிரிக்காட்சி தோல்வியடைந்தது",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "உங்கள் உள்ளடக்கத்தின் மாதிரிக்காட்சியை ஏற்ற முடியவில்லை.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "உங்கள் உள்ளடக்கத்தின் மாதிரிக்காட்சியை ஏற்ற முடியவில்லை. பிறகு மீண்டும் முயலவும்.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "உள்ளடக்கத்தை அனுப்பமுடியாது",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "இந்தப் பக்கத்தின் உள்ளடக்கம் சரியாக ஏற்றப்படவில்லை, இதை அனுப்பமுடியாது. அதற்குப் பதிலாக நீங்கள் உரைத் தேர்ந்தெடுப்புகளை அனுப்ப முயற்சி செய்யலாம்.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "இணையத்தளத்தை ஆராய்கிறது",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "மாதிரிக்காட்சியை ஏற்றுகிறது",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "எப்படியாயினும் அனுப்பவும்",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "உங்கள் மாதிரிக்காட்சிக்கான ரேட்டிங் வழங்கவும்",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "உங்கள் இணையப் பக்கத்தின் மாதிரிக்காட்சி எப்படி இருந்தது?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "உங்களது கருத்தைப் பகிர்ந்தமைக்கு நன்றி!",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "சரி",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "ரத்து செய்யவும்",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "அனுப்புவதை ரத்து செய்யவும்",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "கவலையில்லை",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "சமர்ப்பி",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "256 எழுத்துகள் வரம்பை எட்டியது ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "நீங்கள் உங்கள் Amazon கணக்கில் வெற்றிகரமாக உள்நுழைந்துவிட்டீர்கள்.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "பிரேசில்",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "இந்தியா",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "மெக்சிகோ",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "நெதர்லாந்து",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "மாதிரிக்காட்சியை ஏற்றுகிறது",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "மாதிரிக்காட்சியை ஏற்றுகிறது",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "உள்நுழைந்துள்ள பயனர்பெயர்",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "தேர்ந்தெடுப்பை மாதிரிக்காட்சி காணுங்கள்",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "தலைப்பு தேவை",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Kindleக்கு அனுப்புகிறது",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "பின்செல்லுங்கள்",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "மூடுங்கள்",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "ஏற்றுகிறது",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "சாதனப் பட்டியல்",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "வரலாற்றுப் பட்டியல்",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "நீக்குங்கள்",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "இவ்வாறு மதிப்பிடப்படுகிறது",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "ஸ்டார்",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "தற்போதைய மதிப்பீடு: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "அமைப்பு பட்டன், அமைப்புப் பிழை",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "தலைப்பு: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "எழுதியவர்: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "தலைப்பு",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "ஆசிரியர்",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "இந்தக் கருத்து தனிப்பட்டது, உங்கள் மாதிரிக்காட்சி அனுபவத்தை மேம்படுத்த இது எங்களுக்கு உதவும்.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(தேர்வு)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "விழிப்பூட்டல்",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "உங்கள் Kindleக்கு உள்ளடக்கத்தை அனுப்புகிறது",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "இணையதளத்தின் உள்ளடக்கத்தை ஆராய்கிறது",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "இணையதள உள்ளடக்கத்தின் மாதிரிக்காட்சியை ஏற்றுகிறது",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "உங்கள் வலைப்பக்கத்தை அனுப்புவதற்கு முன் உள்நுழைக.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "உள்நுழைக",
+        "description": "Text for sign in button of alert"
+    }
+}

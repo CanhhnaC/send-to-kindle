@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "适用于 Google Chrome™ 的 Send to Kindle",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "现在，发送新闻文章和博客帖子等网络内容到您的 Kindle 设备或阅读应用上并进行阅读，比以往更加简单。",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "通知",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "使用条款",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "澳大利亚",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "加拿大",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "法国",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "德国",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "意大利",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "日本",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "西班牙",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "英国",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "美国",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "快速发送",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "登录",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "忘记密码",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "是否初次使用亚马逊？",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "创建您亚马逊账户",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "选择您首选的国家/地区网站：",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "保存国家/地区",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "预览并发送",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "发送所选内容",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "设置项",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "反馈",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "设置项",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "快捷方式",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "历史记录",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: 选项",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "键盘快捷键",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "如需更改，请点击下面的方框并选择您键盘上的按键组合：",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "排班",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "左箭头",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "向右箭头",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "上箭头",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "下箭头",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "您是否正在寻找发货选项？ ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "点击此处",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: 历史记录",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "历史记录",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "过去 30 天内没有寄出任何商品。",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "今天",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "昨天",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " 几天前",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "清空历史记录",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "关闭",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "继续",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "添加到您的媒体库",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "您的媒体库里的文件可被下载到任何与您的账户关联的设备。",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "显示复杂布局的警告",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "一些布局复杂的网站可能无法在 Kindle 上正常显示。",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "登出",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "退出",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "从这个浏览器登出亚马逊账户。",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "选择发送您的文件的位置：",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "未找到任何设备。前往 read.amazon.com 或注册您的 Kindle 设备。",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "至少需要一台设备",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "预览",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "发送",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "为您的 “Send to Kindle” 体验评分。",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "告诉我们更多信息（可选）。",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "提交",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "感谢您提供的反馈！",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "为您的预览评分",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "您的内容即将到达",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "它可能要几分钟才能送达您的 Kindle 图书馆。",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "取消发送？",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "关闭此网页将取消发送。取得的任何进展都不会被发送。",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "发送失败",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "我们无法发送您的内容。请稍后再试。",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "我们无法发送您的内容。请检查您的连接并重试。",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "预览失败",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "我们无法加载您的内容预览。",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "我们无法加载您的内容预览。请稍后再试。",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "无法发送内容",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "此页面的内容加载不正确，无法发送。您可以改为尝试发送文本选项。",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "正在分析网站",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "预览加载中",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "仍发送",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "为您的预览评分",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "您的网页预览效果怎么样？",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "感谢您的反馈！",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "确定",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "取消",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "取消发送",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "没关系",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "提交",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "已达到 256 个字符的限制 ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "您已成功登录您的亚马逊账户。",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "巴西",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "印度",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "墨西哥",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "荷兰",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "预览加载中",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "预览加载中",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "已登录为",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "预览选择",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "标题为必填项",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "正在发送到 Kindle",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "返回",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "关闭",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "加载中",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "设备列表",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "历史记录清单",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "删除",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "评级为",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "星级",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "当前评级： ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "设置按钮，设置错误",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "书刊名： ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "作者： ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "书刊名",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "作者",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "此反馈是私密的，将帮助我们改善您的预览体验。",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "（选择）",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "提醒",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "正在将内容发送到您的 Kindle",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "分析网站内容",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "正在加载网站内容的预览",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "请先登陆，然后再发送您的网页。",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "登陆",
+        "description": "Text for sign in button of alert"
+    }
+}

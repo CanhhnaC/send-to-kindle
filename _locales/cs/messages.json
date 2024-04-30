@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Send to Kindle pro Google Chrome™",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "Odesílání a čtení webového obsahu, jako jsou novinové články a příspěvky na blogu, na Vašem zařízení Kindle nebo v aplikaci pro čtení je nyní snazší než kdy jindy.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "Oznámení",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "Podmínky použití",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "Austrálie",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "Kanada",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "Francie",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "Německo",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "Itálie",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "Japonsko",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "Španělsko",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "Spojené království",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "Spojené státy",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "Rychlé odeslání",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "Přihlásit se",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "Zapomenuté heslo",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Jste v obchodě Amazon poprvé?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "Vytvořte si účet Amazon",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "Vyberte web preferované země/oblasti:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "Uložit zemi",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "Zobrazit náhled a odeslat",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "Odeslat výběr",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "Nastavení",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "Zpětná vazba",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "Nastavení",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "Zkratky",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "Historie",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: Možnosti",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "Klávesové zkratky",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "Chcete-li provést změnu, klikněte na pole níže a vyberte kombinaci kláves na klávesnici:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "ŠIPKA VLEVO",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "ŠIPKA VPRAVO",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "ŠIPKA NAHORU",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "ŠIPKA DOLŮ",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "Hledáte možnosti doručení? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "Klikněte sem",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: Historie",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "Historie",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "Neexistují žádné odeslané položky za posledních 30 dní.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "Dnes",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "Včera",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " dny/dnů zpět",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "Vymazat historii",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "Zavřít",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "Pokračovat",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "Přidat do knihovny",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "Soubory ve Vaší knihovně si můžete stáhnout do jakéhokoli zařízení propojeného s Vaším účtem.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "Zobrazit komplexní varování ohledně rozvržení",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "Některé weby se složitým rozvržením se na Kindle nemusí správně zobrazovat.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "Odhlásit se",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "Odhlásit se",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "Odhlaste se z účtu Amazon v tomto prohlížeči.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "Zvolte, kam soubory odeslat:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "Nebyla nalezena žádná zařízení. Přejděte na web read.amazon.com nebo své zařízení Kindle zaregistrujte.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "Vyžaduje se alespoň jedno zařízení",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "Náhled",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "Odeslat",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "Ohodnoťte své zkušenosti se službou Send to Kindle.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "Řekněte nám více (volitelné).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "Odeslat",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "Děkujeme Vám za zpětnou vazbu.",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "Ohodnoťte náhled",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "Váš obsah je na cestě",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "Může trvat několik minut, než se objeví ve Vaší knihovně Kindle.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "Chcete zrušit odesílání?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "Zavřením této webové stránky se odesílání zruší. Jakékoli provedené změny nebudou odeslány.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "Odeslání se nezdařilo",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "Váš obsah se nepodařilo poslat. Zkuste to znovu později.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "Váš obsah se nepodařilo poslat. Zkontrolujte připojení a zkuste to znovu.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "Náhled se nezdařil",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "Nepodařilo se nám načíst náhled Vašeho obsahu.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "Nepodařilo se nám načíst náhled Vašeho obsahu. Zkuste to prosím znovu později.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "Obsah nelze odeslat",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "Obsah této stránky se nenačítá správně a nelze jej odeslat. Místo toho můžete zkusit odeslat výběr textu.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "Analýza webu",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "Načítání náhledu",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "Přesto odeslat",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "Ohodnoťte náhled",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "Jaký byl náhled Vaší webové stránky?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "Děkujeme Vám za sdílení zpětné vazby.",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "OK",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "Zrušit",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "Zrušit odesílání",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "Souhlasím",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "Odeslat",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "Bylo dosaženo limitu 256 znaků ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "Úspěšně jste se přihlásili ke svému účtu Amazon.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "Brazílie",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "Indie",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "Mexiko",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "Nizozemsko",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "Načítání náhledu",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "Načítání náhledu",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "Přihlášen(a) jako",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "Výběr náhledu",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "Název je povinný",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Odesílá se do Kindle",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "Zpět",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "Zavřít",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "Načítání",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "Seznam zařízení",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "Seznam historie",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "Odstranit",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "hodnocení jako",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "hvězdička",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "Aktuální hodnocení: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "Tlačítko nastavení, Chyba nastavení",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "Název: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "Autor: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "Název",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "Autor",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "Tato zpětná vazba je soukromá a pomůže nám zlepšit Vaše zkušenosti s náhledem.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(Výběr)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "Upozornění",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "Odesílání obsahu do Vašeho Kindle",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "Analýza obsahu webových stránek",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "Načítání náhledu obsahu webových stránek",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "Před odesláním webové stránky se prosím přihlaste.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "Přihlásit se",
+        "description": "Text for sign in button of alert"
+    }
+}

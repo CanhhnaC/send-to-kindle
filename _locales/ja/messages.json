@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Google Chrome™版Send to Kindle",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "ニュース記事やブログ投稿などのウェブコンテンツをKindleデバイスや読書アプリに送ったり読んだりすることが、これまでになく簡単になりました。",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "通知",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "利用規約",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "オーストラリア",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "カナダ",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "フランス",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "ドイツ",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "イタリア",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "日本",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "スペイン",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "英国",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "米国",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "クイック送信",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "サインイン",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "パスワードを忘れた場合",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Amazonを初めてご利用されますか?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "Amazonアカウントを作成",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "ご希望の国/地域のウェブサイトを選択してください：",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "国を保存",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "プレビューして送信",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "選択内容を送信",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "設定",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "フィードバック",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "設定",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "ショートカット",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "履歴",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle::オプション",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "キーボードショートカット",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "変更するには、下のボックスをクリックして、キーボードのキーの組み合わせを選択してください。",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "シフト",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "左矢印",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "右矢印",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "上矢印",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "下矢印",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "配送オプションをお探しですか? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "こちらをクリック",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle::履歴",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "履歴",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "過去30日間に発送された商品はありません。",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "今日",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "昨日",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " 日前",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "履歴をクリア",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "閉じる",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "次に進む",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "ライブラリに追加する",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "ライブラリ内のファイルは、アカウントサービスにリンクされているどのデバイスにもダウンロードできます。",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "複雑なレイアウトの警告を表示する",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "複雑なレイアウトのサイトによっては、Kindleで正しく表示されない場合があります。",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "サインアウト",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "サインアウト",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "このブラウザでAmazonアカウントからサインアウトします。",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "ファイルの送信先を選択します:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "デバイスが検出されませんでした。read.amazon.comにアクセスするか、お使いのKindleデバイスを登録します。",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "少なくとも1つのデバイスが必要です",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "プレビュー",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "送信",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "「Send to Kindle」の体験を評価してください。",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "詳細を教えてください（任意）。",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "送信する",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "フィードバックをありがとうございます。",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "プレビューを評価する",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "コンテンツは準備中です",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "Kindleライブラリに届くまでに数分かかる場合があります。",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "送信をキャンセルしますか?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "このウェブページを閉じると送信がキャンセルされます。進行状況は送信されません。",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "送信に失敗しました",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "コンテンツを送信できませんでした。しばらくしてから、もう一度お試しください。",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "コンテンツを送信できませんでした。接続をご確認の上、再度お試しください。",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "プレビューに失敗しました",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "コンテンツのプレビューを読み込めませんでした。",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "コンテンツのプレビューを読み込めませんでした。後で再度お試しください。",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "コンテンツを送信できません",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "このページのコンテンツは正しく読み込まれていないため、送信できません。代わりにテキスト選択で送信をお試しください。",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "ウェブサイトを分析中です",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "プレビューを読み込み中",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "そのまま送信する",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "プレビューを評価する",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "ウェブページのプレビューはどうでしたか？",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "フィードバックをお寄せいただきありがとうございます。",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "了解しました",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "キャンセル",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "送信をキャンセルする",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "問題ありません",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "送信する",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "256文字の上限に達しました ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "Amazonアカウントに正常にログインしました。",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "ブラジル",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "インド",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "メキシコ",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "オランダ",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "プレビューを読み込み中",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "プレビューを読み込み中",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "次のアカウントとしてサインイン",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "プレビュー選択",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "タイトルが必要です",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Kindleに送信中",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "戻る",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "閉じる",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "読み込み中",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "デバイスリスト",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "履歴リスト",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "削除する",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "としてのレーティング",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "星",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "現在のレーティング: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "設定ボタン、設定エラー",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "タイトル: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "設定者: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "タイトル",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "著者",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "このフィードバックは非公開で、プレビューエクスペリエンスの向上に役立ちます。",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(選択)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "注意",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "Kindle へのコンテンツの送信",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "ウェブサイトのコンテンツの分析",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "Web サイトのコンテンツのプレビューを読み込んでいます",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "ウェブページを送信する前にサインインしてください。",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "サインイン",
+        "description": "Text for sign in button of alert"
+    }
+}

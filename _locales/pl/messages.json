@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Dodatek Send to Kindle dla przeglądarki Google Chrome™",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "Wysyłanie i czytanie treści internetowych, takich jak artykuły z wiadomościami i wpisy na blogach, na czytniku lub w aplikacji do czytania Kindle nigdy nie było tak proste.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "Powiadomienie",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "Warunki użytkowania",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "Australia",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "Kanada",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "Francja",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "Niemcy",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "Włochy",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "Japonia",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "Hiszpania",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "Wielka Brytania",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "Stany Zjednoczone",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "Szybkie wysyłanie",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "Zaloguj się",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "Nie pamiętam hasła",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "Pierwszy raz na Amazon?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "Utwórz konto Amazon",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "Wybierz preferowaną witrynę internetową dla danego kraju/regionu:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "Zapisz kraj",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "Wyświetl podgląd i wyślij",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "Wyślij zaznaczenie",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "Ustawienia",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "Opinia",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "Ustawienia",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "Skróty",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "Historia",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: Opcje",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "Skróty klawiszowe",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "Aby zmienić, kliknij poniższe pole i wybierz kombinację klawiszy na klawiaturze:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "STRZAŁKA W LEWO",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "STRZAŁKA W PRAWO",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "STRZAŁKA W GÓRĘ",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "STRZAŁKA W DÓŁ",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "Szukasz opcji dostawy? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "Kliknij tutaj",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: Historia",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "Historia",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "Brak wysłanych produktów z ostatnich 30 dni.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "Dzisiaj",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "Wczoraj",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " dni temu",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "Wyczyść historię",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "Zamknij",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "Kontynuuj",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "Dodaj do swojej biblioteki",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "Pliki z biblioteki można pobrać na dowolne urządzenie powiązane z Twoim kontem.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "Pokaż ostrzeżenia o skomplikowanym układzie",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "Niektóre witryny internetowe o skomplikowanym układzie mogą nie wyświetlać się poprawnie na Kindle.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "Wyloguj się",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "Wyloguj się",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "Wyloguj się ze swojego konta Amazon w tej przeglądarce.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "Wybierz, dokąd wysłać pliki:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "Nie znaleziono urządzeń. Przejdź do read.amazon.com lub zarejestruj swoje urządzenie Kindle.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "Wymagane co najmniej jedno urządzenie",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "Podgląd",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "Wyślij",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "Oceń swoje doświadczenie z funkcją Send do Kindle.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "Powiedz nam więcej (opcjonalnie).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "Prześlij",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "Dziękujemy za opinię!",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "Oceń swój podgląd",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "Twoje treści są w drodze",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "Dotarcie do Twojej biblioteki Kindle może zająć kilka minut.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "Anulować wysyłanie?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "Zamknięcie tej strony spowoduje anulowanie wysyłania. Żadne poczynione postępy nie zostaną wysłane.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "Wysyłanie nie powiodło się",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "Nie mogliśmy wysłać Twoich treści. Spróbuj ponownie później.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "Nie mogliśmy wysłać Twoich treści. Sprawdź połączenie i spróbuj ponownie.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "Podgląd nieudany",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "Nie udało nam się załadować podglądu Twoich treści.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "Nie udało nam się załadować podglądu Twoich treści. Spróbuj ponownie później.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "Nie można wysyłać treści",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "Zawartość tej strony nie ładuje się poprawnie i nie można jej wysłać. Zamiast tego możesz spróbować wysłać wybrane teksty.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "Analizowanie strony internetowej",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "Wczytywanie podglądu",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "Wyślij mimo wszystko",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "Oceń swój podgląd",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "Jak wyglądał podgląd Twojej strony internetowej?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "Dziękujemy za podzielenie się swoją opinią!",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "OK",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "Anuluj",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "Anuluj wysyłanie",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "Nieważne",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "Prześlij",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "Osiągnięto limit 256 znaków ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "Udało Ci się pomyślnie zalogować na konto Amazon.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "Brazylia",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "Indie",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "Meksyk",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "Holandia",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "Wczytywanie podglądu",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "Wczytywanie podglądu",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "Zalogowany jako",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "Wybór podglądu",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "Tytuł jest wymagany",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "Wysyłanie do Kindle",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "Wróć",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "Zamknij",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "Ładowanie",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "Lista urządzeń",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "Lista historii",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "Usuń",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "klasyfikacja jako",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "gwiazdka",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "Bieżąca klasyfikacja: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "Przycisk ustawień, błąd ustawienia",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "Tytuł: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "Autor: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "Tytuł",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "Autor",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "Ta opinia jest prywatna i pomoże nam poprawić wrażenia z podglądu.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(Wybór)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "Uwaga",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "Wysyłanie treści na Twoje urządzenie Kindle",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "Analizowanie zawartości witryny internetowej",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "Ładowanie podglądu zawartości witryny internetowej",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "Zaloguj się przed przesłaniem swojej strony internetowej.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "Zaloguj się",
+        "description": "Text for sign in button of alert"
+    }
+}

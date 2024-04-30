@@ -1,0 +1,502 @@
+{
+    "extensionName": {
+        "message": "Send to Kindle עבור Google Chrome™",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "שליחה וקריאה של תוכן אינטרנטי כגון מאמרי חדשות ופרסומי בלוג למכשיר Kindle או לאפליקציית הקריאה שלך היא כעת קלה מתמיד.",
+        "description": "Extension description for extension UI and download."
+    },
+    "legalNotice": {
+        "message": "התראה",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/privacy",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "תנאי שימוש",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/sendtokindleterms",
+        "description": "Link to 'Terms of Use'"
+    },
+    "popUpCountryAU": {
+        "message": "אוסטרליה",
+        "description": "Country name of AU"
+    },
+    "popUpCountryCA": {
+        "message": "קנדה",
+        "description": "Country name of CA"
+    },
+    "popUpCountryfr": {
+        "message": "צרפת",
+        "description": "Country name of FR"
+    },
+    "popUpCountryDE": {
+        "message": "גרמניה",
+        "description": "Country name of DE"
+    },
+    "popUpCountryIT": {
+        "message": "איטליה",
+        "description": "Country name of IT"
+    },
+    "popUpCountryJP": {
+        "message": "יפן",
+        "description": "Country name of JP"
+    },
+    "popUpCountryES": {
+        "message": "ספרד",
+        "description": "Country name of ES"
+    },
+    "popUpCountryUK": {
+        "message": "בריטניה",
+        "description": "Country name of UK"
+    },
+    "popUpCountryUS": {
+        "message": "ארצות הברית",
+        "description": "Country name of US"
+    },
+    "popUpSendToKindle": {
+        "message": "שליחה מהירה",
+        "description": "PopUp text for S2K."
+    },
+    "popUpSignIn": {
+        "message": "כניסה",
+        "description": "PopUp text for sign in button"
+    },
+    "popUpForgotPassword": {
+        "message": "שכחתי את הסיסמה",
+        "description": "PopUp text for forgot password link"
+    },
+    "popUpNewToAmazon": {
+        "message": "חדשים ב-Amazon?",
+        "description": "PopUp text for new account button divider"
+    },
+    "popUpCreateAccount": {
+        "message": "יצירת חשבון Amazon שלך",
+        "description": "PopUp text for create new account button"
+    },
+    "popUpPreferCountrySelect": {
+        "message": "יש לבחור את האתר המועדף עליך במדינה/אזור:",
+        "description": "PopUp text in country picker selection"
+    },
+    "popUpSaveCountry": {
+        "message": "שמירת מדינה",
+        "description": "PopUp text sve country button"
+    },
+    "popUpPreviewAndSend": {
+        "message": "תצוגה מקדימה ושליחה",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "שליחת בחירה",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpSettings": {
+        "message": "הגדרות",
+        "description": "PopUp text for settings button."
+    },
+    "popUpFeedback": {
+        "message": "משוב",
+        "description": "PopUp text for feedback button."
+    },
+    "popUpOptions": {
+        "message": "הגדרות",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "קיצורי דרך",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "היסטוריה",
+        "description": "PopUp text for extraction history."
+    },
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    "options": {
+        "message": "Send to Kindle :: אפשרויות",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "קיצורי מקשים",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "כדי לשנות, יש ללחוץ על התיבה למטה ולבחור צירוף מקשים במקלדת שלך:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "חץ שמאלה",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "חץ ימינה",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "חץ למעלה",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "חץ למטה",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "רוצה לחפש את אפשרויות המסירה שלך? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "יש ללחוץ כאן",
+        "description": "Information text device settings link."
+    },
+    "history": {
+        "message": "Send to Kindle :: היסטוריה",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "היסטוריה",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "אין פריטים שנשלחו מ-30 הימים האחרונים.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "היום",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "אתמול",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " לפני ימים",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": "לנקות היסטוריה",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": "סגירה",
+        "description": "Action to close history."
+    },
+    "popUpCountryPickerContinue": {
+        "message": "להמשיך",
+        "description": "PopUp text to continue once user selected a country"
+    },
+    "popUpSettingsAddLibTitle": {
+        "message": "הוספה לספרייה שלך",
+        "description": "PopUp text for the title of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibDes": {
+        "message": "ניתן להוריד קבצים בספרייה שלך לכל מכשיר המקושר לחשבון שלך.",
+        "description": "PopUp text for the description of 'Add to your library' section in settings page"
+    },
+    "popUpSettingsComplexityWarningTitle": {
+        "message": "הצגת אזהרות פריסה מורכבת",
+        "description": "PopUp text for the title of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsComplexityWarningDes": {
+        "message": "ייתכן שאתרים מסוימים עם פריסות מורכבות לא יוצגו כראוי ב-Kindle.",
+        "description": "PopUp text for the description of 'Show complex layout warnings' section in settings page"
+    },
+    "popUpSettingsLogoutTitle": {
+        "message": "התנתקות",
+        "description": "PopUp text for the title of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutButton": {
+        "message": "התנתקות",
+        "description": "PopUp text for the button of 'Logout' section in settings page"
+    },
+    "popUpSettingsLogoutDes": {
+        "message": "התנתקות מחשבון Amazon שלך בדפדפן זה.",
+        "description": "PopUp text for the description of 'Logout' section in settings page"
+    },
+    "popUpSettingsAddLibDevicesListTitle": {
+        "message": "יש לבחור לאן לשלוח את הקובץ (קבצים) שלך:",
+        "description": "PopUp text for the title of `devices list` part in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibNoDevicesText": {
+        "message": "לא נמצאו מכשירים. יש לעבור אל read.amazon.com או לרשום את מכשיר ה-Kindle שלך.",
+        "description": "PopUp text for inform user that they do not have abt devices in 'Add to your library' section in settings page"
+    },
+    "popUpSettingsAddLibInlineAlertText": {
+        "message": "נדרש לפחות מכשיר אחד",
+        "description": "PopUp text for the inline alert of 'Add to your library' section in settings page, when user do not select any devices"
+    },
+    "previewHeaderTitle": {
+        "message": "תצוגה מקדימה",
+        "description": "Title in header of Preview page"
+    },
+    "previewHeaderSend": {
+        "message": "לשלוח",
+        "description": "Text for send button in header of Preview page"
+    },
+    "popUpFeedbackTitle": {
+        "message": "לדירוג חוויית Send to Kindle שלך.",
+        "description": "PopUp text for title of feedback page."
+    },
+    "popUpFeedbackPlaceholder": {
+        "message": "נשמח לשמוע עוד (אופציונלי).",
+        "description": "Placeholder of feedback textarea"
+    },
+    "popUpFeedbackSubmit": {
+        "message": "שליחה",
+        "description": "PopUp text for submit button in feedback page."
+    },
+    "popUpFeedbackThanksText": {
+        "message": "תודה על המשוב שלך!",
+        "description": "PopUp text to show after user send a feedback."
+    },
+    "previewFeedback": {
+        "message": "לדירוג התצוגה המקדימה שלך",
+        "description": "Text for feedback button in Preview page"
+    },
+    "alertSendingTitle": {
+        "message": "התוכן שלך בדרך",
+        "description": "Text for title of sending alert"
+    },
+    "alertSendingMessage": {
+        "message": "ייתכן שיעברו מספר דקות עד הגעה לספריית Kindle שלך.",
+        "description": "Text for message of sending alert"
+    },
+    "alertCancelSendingTitle": {
+        "message": "לבטל את השליחה?",
+        "description": "Text for title of cancel sending alert"
+    },
+    "alertCancelSendingMessage": {
+        "message": "סגירת דף אינטרנט זה תבטל את השליחה. כל התקדמות שנעשתה לא תישלח.",
+        "description": "Text for message of cancel sending alert"
+    },
+    "alertSendingErrorTitle": {
+        "message": "השליחה נכשלה",
+        "description": "Text for title of sending failed alert"
+    },
+    "alertSendingGeneralErrorMessage": {
+        "message": "לא יכולנו לשלוח את התוכן שלך. יש לנסות שוב מאוחר יותר.",
+        "description": "Text for message of general sending error alert"
+    },
+    "alertSendingNetworkErrorMessage": {
+        "message": "לא יכולנו לשלוח את התוכן שלך. יש לבדוק את החיבור ולנסות שוב.",
+        "description": "Text for message of network sending error alert"
+    },
+    "alertPreviewErrorTitle": {
+        "message": "התצוגה המקדימה נכשלה",
+        "description": "Text for title of preview failed alert"
+    },
+    "alertPreviewGeneralErrorMessage": {
+        "message": "אין באפשרותנו לטעון תצוגה מקדימה של התוכן שלך.",
+        "description": "Text for message of general preview error alert"
+    },
+    "alertPreviewExtractionErrorMessage": {
+        "message": "אין באפשרותנו לטעון תצוגה מקדימה של התוכן שלך. יש לנסות שוב מאוחר יותר.",
+        "description": "Text for message of extraction error alert"
+    },
+    "alertLowQualityTitle": {
+        "message": "לא ניתן לשלוח תוכן",
+        "description": "Text for title of low quality alert"
+    },
+    "alertLowQualityMessage": {
+        "message": "תוכן דף זה אינו נטען כראוי ולא ניתן לשלוח אותו. ניתן לנסות לשלוח בחירות טקסט במקום זאת.",
+        "description": "Text for message of low quality alert"
+    },
+    "alertAnalyzingMessage": {
+        "message": "אתר אינטרנט בתהליך ניתוח",
+        "description": "Text for message of analyzing alert"
+    },
+    "loadingPreview": {
+        "message": "תצוגה מקדימה בטעינה",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertButtonSendAnyway": {
+        "message": "שליחה בכל מקרה",
+        "description": "Text for send anyway button of alert"
+    },
+    "alertFeedbackTitle": {
+        "message": "לדירוג התצוגה המקדימה שלך",
+        "description": "Text for title of feedback alert"
+    },
+    "alertFeedbackInputMessage": {
+        "message": "איך הייתה התצוגה המקדימה של דף האינטרנט שלך?",
+        "description": "Text for message of feedback alert to ask user to input feedback"
+    },
+    "alertFeedbackFinishMessage": {
+        "message": "תודה ששיתפת את המשוב שלך!",
+        "description": "Text for message of feedback alert after user submit a feedback"
+    },
+    "alertButtonOK": {
+        "message": "אישור",
+        "description": "Text for OK button of alert"
+    },
+    "alertButtonCancel": {
+        "message": "ביטול",
+        "description": "Text for cancel button of alert"
+    },
+    "alertButtonCancelSending": {
+        "message": "ביטול שליחה",
+        "description": "Text for cancel sending button of alert"
+    },
+    "alertButtonNevermind": {
+        "message": "לא משנה",
+        "description": "Text for never mind button of alert"
+    },
+    "alertButtonSubmit": {
+        "message": "שליחה",
+        "description": "Text for submit button of alert"
+    },
+    "previewInputLengthLimitAlert": {
+        "message": "הגעת למגבלת 256 תווים ",
+        "description": "Text for inline alert of length limit in preview page"
+    },
+    "AfterSignInText": {
+        "message": "התחברת בהצלחה לחשבון Amazon שלך.",
+        "description": "Text for after sign-in page"
+    },
+    "popUpCountryBR": {
+        "message": "ברזיל",
+        "description": "Country name of BR"
+    },
+    "popUpCountryIN": {
+        "message": "הודו",
+        "description": "Country name of IN"
+    },
+    "popUpCountryMX": {
+        "message": "מקסיקו",
+        "description": "Country name of MX"
+    },
+    "popUpCountryNL": {
+        "message": "הולנד",
+        "description": "Country name of NL"
+    },
+    "loadingPreviewMessage": {
+        "message": "תצוגה מקדימה בטעינה",
+        "description": "Text for message of loading preview alert"
+    },
+    "alertLoadingPreviewMessage": {
+        "message": "תצוגה מקדימה בטעינה",
+        "description": "Text for message of loading preview alert"
+    },
+    "popUpSettingsUserNameTitle": {
+        "message": "כניסה בשם",
+        "description": "PopUp text for the title of user name in settings page."
+    },
+    "previewSelectionHeaderTitle": {
+        "message": "הצג תצוגה מקדימה",
+        "description": "Title in header of Preview page"
+    },
+    "previewTitleEmptyAlert": {
+        "message": "נדרשת כותרת",
+        "description": "Text for inline alert of empty title"
+    },
+    "alertSendingToKindleMessage": {
+        "message": "שולח ל-Kindle",
+        "description": "Text for message of sending to kindle alert"
+    },
+    "A11yIconBack": {
+        "message": "חזרה",
+        "description": "A11y text for back icon"
+    },
+    "A11yIconClose": {
+        "message": "סגירה",
+        "description": "A11y text for close icon"
+    },
+    "A11yIconSpinner": {
+        "message": "בטעינה",
+        "description": "A11y text for loading spinner"
+    },
+    "A11yDeviceList": {
+        "message": "רשימת מכשירים",
+        "description": "A11y text for device list container"
+    },
+    "A11yHistoryList": {
+        "message": "רשימת היסטוריה",
+        "description": "A11y text for History list container"
+    },
+    "A11yHistoryDelete": {
+        "message": "מחיקה",
+        "description": "A11y text for History list delete icon"
+    },
+    "A11yFeedbackRating": {
+        "message": "דירוג כמו",
+        "description": "A11y text for feedback rating action"
+    },
+    "A11yFeedbackStar": {
+        "message": "כוכב",
+        "description": "A11y text for feedback star icon"
+    },
+    "A11yFeedbackCurrentRating": {
+        "message": "דירוג נוכחי: ",
+        "description": "A11y text for feedback rating"
+    },
+    "A11yPopupSettingsError": {
+        "message": "לחצן 'הגדרה', שגיאת הגדרה",
+        "description": "A11y text for setting button with error icon in corner"
+    },
+    "A11yPreviewTitle": {
+        "message": "כותר: ",
+        "description": "A11y text for edit area of title in preview page"
+    },
+    "A11yPreviewAuthor": {
+        "message": "מחבר: ",
+        "description": "A11y text for edit area of author in preview page"
+    },
+    "previewInputTitleDes": {
+        "message": "כותרת",
+        "description": "Description of input area of title"
+    },
+    "previewInputAuthorDes": {
+        "message": "סופר/ת",
+        "description": "Description of input area of author"
+    },
+    "popUpFeedbackDescription": {
+        "message": "משוב זה הוא פרטי ויעזור לנו לשפר את חווית התצוגה המקדימה שלך.",
+        "description": "PopUp text for description of feedback page."
+    },
+    "historyTagSelection": {
+        "message": "(בחירה)",
+        "description": "The tag in history page to show the item is from `send selection` option"
+    },
+    "A11yAlert": {
+        "message": "התראה",
+        "description": "A11y text for Alert container"
+    },
+    "A11yAlertSendingToKindleMessage": {
+        "message": "שליחת תוכן ל-Kindle שלך",
+        "description": "Voice Over read out text for message of sending to kindle alert"
+    },
+    "A11yAlertAnalyzingMessage": {
+        "message": "ניתוח תוכן האתר",
+        "description": "Voice Over read out text for message of analyzing alert"
+    },
+    "A11yAlertLoadingPreviewMessage": {
+        "message": "טוען תצוגה מקדימה של תוכן האתר",
+        "description": "Voice Over read out text for message of loading preview alert"
+    },
+    "alertSendingNoAuthErrorMessage": {
+        "message": "יש להיכנס לפני שליחת דף האינטרנט שלך.",
+        "description": "Text for message of sending error alert when user try to send with invalid authentication status"
+    },
+    "alertButtonSignIn": {
+        "message": "כניסה",
+        "description": "Text for sign in button of alert"
+    }
+}
