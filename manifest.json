@@ -23,7 +23,8 @@
   "content_scripts": [
     {
       "matches": ["*://*/send-to-kindle-preview.html*"],
-      "js": ["s2k-content.js"]
+      "js": ["s2k-content.js", "quill.js"],
+      "css": ["quill.snow.css"]
     },
     { "matches": ["http://*/*", "https://*/*"], "js": ["s2k-listener.js"] }
   ],

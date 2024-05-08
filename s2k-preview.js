@@ -27646,9 +27646,10 @@ async function getUnzippedEpub(epubString) {
  * @param {String} epubString Base64 string of original EPUB
  * @param {String} newTitle New title
  * @param {String} newAuthor New author
+ * @param {String} newContent New content
  * @return {Promise<String>} Base64 string of new EPUB
  */
-async function updateEpubMetadata(epubString, newTitle, newAuthor) {
+async function updateEpubMetadata(epubString, newTitle, newAuthor, newContent) {
     let unzippedEpub = await getUnzippedEpub(epubString);
     if (!unzippedEpub) {
         // If the epub cannot unzip, return the original base64 string
@@ -27684,10 +27685,8 @@ async function updateEpubMetadata(epubString, newTitle, newAuthor) {
     // Update title and author in html content
     let htmlContent = unzippedEpub.file(constants_EPUB_HELPER.HTML_CONTENT_PATH);
     if (htmlContent) {
-        // Get pure string of html content
-        let htmlString = await htmlContent.async('text');
         // Convert string to DOM
-        let dom = getDOMFromHtmlString(htmlString);
+        let dom = getDOMFromHtmlString(newContent);
         // Update title div
         let titleDiv = dom.querySelector('.s2k-title');
         if (titleDiv) {
@@ -27909,7 +27908,7 @@ class Controller {
      * @param {string} title The title of document
      * @param {string} author The author of document
      */
-    async handleSend(title, author) {
+    async handleSend(title, author, content) {
         // Report domain
         chrome.runtime.sendMessage({
             action: "report-domain",
@@ -27924,7 +27923,7 @@ class Controller {
         }
 
         // Update title and author based on user input
-        this.updateInput(title, author, function () {
+        this.updateInput(title, author, content, function () {
             // Set progress state
             this.inSending = true;
 
@@ -27975,13 +27974,14 @@ class Controller {
      * Update title and author from user input
      * @param {string} title The title of document
      * @param {string} author The author of document
+     * @param {string} content The content of document
      * @param {function} callback Complete callback
      */
-    async updateInput(title, author, callback) {
+    async updateInput(title, author, content, callback) {
         //Update epub file based on new title and new author
-        let epubString = await updateEpubMetadata(this.contentModel.epubString, title, author);
+        let epubString = await updateEpubMetadata(this.contentModel.epubString, title, author, content);
         this.contentModel.epubString = epubString;
-        this.extensionService.updateMetadata(this.currentDocumentToken, {title, author, epubString}, function (newToken) {
+        this.extensionService.updateMetadata(this.currentDocumentToken, {title, author, epubString, content}, function (newToken) {
             this.currentDocumentToken = newToken || this.currentDocumentToken;
             if (callback ) {
                 callback();
@@ -28007,6 +28007,7 @@ class Controller {
 
         this.contentModel.title = title;
         this.contentModel.author = author;
+		this.contentModel.content = content;
     }
 
     /**
@@ -28241,6 +28242,8 @@ class View {
         // Input info
         this.author = "";
         this.title = "";
+		this.$editor = null;
+		this.htmlContent = "";
     }
 
     // ###################################################### Initialization ######################################################
@@ -28300,6 +28303,7 @@ class View {
      */
     async setContent(documentMetadata, epubFile) {
         let htmlContent = documentMetadata.htmlContent;
+		this.htmlContent = htmlContent;
         // LoadImages for content from epub
         if (epubFile) {
             await this.loadImages(epubFile);
@@ -28324,6 +28328,13 @@ class View {
         this.loadA11yString();
         // Set title to real middle
         this.unifyWidth();
+
+		
+		const editor = new Quill('.s2k-article-body', {
+			theme: 'snow'
+		});
+
+		this.$editor = editor;
     }
 
     /**
@@ -28453,7 +28464,10 @@ class View {
             editedAuthor = "";
         }
         if (this.handlers.send ) {
-            this.handlers.send(editedTitle, editedAuthor);
+			const contentEditable = getDOMFromHtmlString(this.htmlContent);
+			contentEditable.querySelector('.s2k-article-body').innerHTML = this.$editor.getSemanticHTML();
+			const htmlContent = getHtmlStringFromDOM(contentEditable);
+			this.handlers.send(editedTitle, editedAuthor, htmlContent);
         }
     }
 

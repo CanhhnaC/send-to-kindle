@@ -13730,7 +13730,7 @@ function copyOldHistoryData(targetDB, callback) {
                         content.data.title = message.data.title || content.title;
                         content.data.author = message.data.author || undefined;
                         content.data.epubString = message.data.epubString || undefined;
-
+						content.data.content = message.data.content || content.content;
                         // Store the content.
                         S2K.storeContent(message.data.isFromSend, content.data, sendResponse);
                     }
